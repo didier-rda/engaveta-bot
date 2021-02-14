@@ -1,2 +1,2 @@
 # librarian-bot
-A Telegram Bot.
+Telegram Bot.
